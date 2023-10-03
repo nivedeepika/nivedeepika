@@ -1,0 +1,57 @@
+.parallex1{
+    width:100%;
+    height: 600px;
+    background: url("background image 2 girl.jpg");
+    background-size : 100% 100%;
+    background-attachment: fixed;
+}
+
+
+.parallex1 h2{
+    margin:auto;
+    position: relative;
+    
+    top:300px;
+    width: 250px;
+    height: 32px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.para1{
+    padding: 50px;
+   
+    background-color: black;
+    color: white;
+    font-size: 17px;
+}
+.parallax2{
+    width:100%;
+    height: 600px;
+    background: url("black-business-camera-designer.jpg");
+    background-size : 100% 100%;
+    background-attachment: fixed;
+}
+.parallax2 h2{
+    margin: auto;
+    position: relative;
+    left: 500x;
+    top: 300px;
+    width: 250px;
+    height: 37px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana;
+}
+.para2{
+    text-align: center;
+    padding: 25px;
+    font-size: 17px;
+    font-family: Verdana;
+    background-color: black;
+    color: white;
+}

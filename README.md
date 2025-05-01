@@ -3,9 +3,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nivedeepika) 
-- 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Android**
 
 - 📫 How to reach me **deepikanivedeepika@gmail.com**
 
